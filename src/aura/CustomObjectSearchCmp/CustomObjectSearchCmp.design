@@ -1,0 +1,10 @@
+<!--
+ - Created by shreyasdhond1 on 2019-03-23.
+ -->
+
+<design:component>
+    <design:attribute name="objectName" label="Object" description="Enter SObject API Name here"
+                      default=""/>
+    <design:attribute name="fields" label="Fields" description="Enter field list comma separated to include in results"
+                      default=""/>
+</design:component>

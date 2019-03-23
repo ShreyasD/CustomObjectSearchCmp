@@ -1,0 +1,17 @@
+# Mavensmate IDE specific files #
+config/
+*.sublime-project
+*.sublime-workspace
+
+# Illuminated Cloud (IntelliJ) IDE specific files #
+.idea/
+illuminatedCloud/
+*.iml
+*.DS_Store
+
+# Large Files in local not to be commited #
+documents/Releases/Release_17/AutoComplete_Activities_Emergency_Fix.zip
+documents/Releases/E-ticketing_Release_1/DeploymentArtifacts/
+
+# Continuous Integration #
+build/
